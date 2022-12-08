@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi 👋, my name is Jose
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jose-alberto-rodr%C3%ADguez-mart%C3%ADnez-08838318a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jose Alberto Rodríguez Martínez" height="30" width="40" /></a>
+</p>
 <!--
 **Sozatakai/Sozatakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
